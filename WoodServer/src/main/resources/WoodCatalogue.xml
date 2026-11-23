@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WoodCatalogue>
+    <Wood>
+        <Species>Dąb</Species>
+        <Type>Liściaste</Type>
+        <Origin>Polska</Origin>
+        <Color>Jasnobrązowy</Color>
+        <AvailableStock>17.12</AvailableStock>
+    </Wood>
+    <Wood>
+        <Species>Sosna</Species>
+        <Type>Iglaste</Type>
+        <Origin>Szwecja</Origin>
+        <Color>Żółtawy</Color>
+        <AvailableStock>124.54</AvailableStock>
+    </Wood>
+</WoodCatalogue>
